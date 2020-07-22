@@ -29,6 +29,17 @@ print('hello world')
 print('python\'s world')
 #to print python world 
 
+#escape sequence of string
+
+print("hello\n python")
+#to print hello and python in next line
+
+print("hello\t python")
+#to print hello python with tab space
+
+print("hello\a python")
+#to print hello python with alert sound 
+
 
 
 #arithmetic operators 
