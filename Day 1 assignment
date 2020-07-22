@@ -1,3 +1,40 @@
+#basic python syntax
+#basic slash
+
+print("hello\
+world")
+#to print hello world with back slash i.e continuation sign
+
+
+#triple quotes
+
+print(""" ()...()
+(o o)
+/( ..)\
+/""\
+""")
+#to print text art with triple quotes
+
+print(""" This program is written by rhythum""")
+#to print doc string using triple quotes
+
+#string inside the quotes 
+
+print("hello world")
+#to print hello world with double quotes
+
+print('hello world')
+#to print hello world with single quotes
+
+print('python\'s world')
+#to print python world 
+
+
+
+
+
+#membership operators 
+
 str1 = "python programming"
 print("a" in str1)
 
